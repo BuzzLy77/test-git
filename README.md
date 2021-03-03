@@ -1,2 +1,2 @@
 # test-github
-test for python learning
+test for git 
